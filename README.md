@@ -1,5 +1,8 @@
 # Luke Delzer — Resume
-[Open my resume (PDF)](resume.pdf)
+[Download the full resume (PDF)](resume.pdf)
 
-<!-- Clickable preview image -->
-[![Preview](assets/resume-cover.png)](resume.pdf)
+# Resume
+![Page 1](resume-page-1.png)
+![Page 2](resume-page-2.png)
+![Page 3](resume-page-3.png)
+
